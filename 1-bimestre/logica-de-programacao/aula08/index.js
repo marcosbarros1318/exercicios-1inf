@@ -1,5 +1,7 @@
 // CRIE SUA SOLUÇÃO ABAIXO ================
-
+const nomeCompleto = " ruan silva"
+const idadeAluno = 15
+const cidade = General sampaio
 
 
 
