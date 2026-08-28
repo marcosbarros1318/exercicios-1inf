@@ -10,8 +10,8 @@ const descontoPersentual = 10;
 const valorPago = 7000;
 
 const subtotal = 3500 * 2;
-const valordesconto = 7000 * 10/100;
-  const valorfinal = 7000 - 700;
+const valorDesconto = 7000 * 10/100;
+  const valorFinal = 7000 - 700;
 const troco = 7000 - 6300;
 
 
