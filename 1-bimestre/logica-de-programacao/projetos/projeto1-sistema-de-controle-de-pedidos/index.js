@@ -9,10 +9,10 @@ const quantidade = 2;
 const descontoPersentual = 10;
 const valorPago = 7000;
 
-const subtotal = 3500 * 2;
-const valorDesconto = 7000 * 10/100;
-  const valorFinal = 7000 - 700;
-const troco = 7000 - 6300;
+const subtotal = preco * quantidade;
+const valorDesconto = subtotal * (descontoPercentual / 100;
+const valorFinal = subtotal - valorDesconto;
+const troco = valorpago - valorFinal;
 
 
 console.log("===== RESUMO DO PEDIDO =====");
