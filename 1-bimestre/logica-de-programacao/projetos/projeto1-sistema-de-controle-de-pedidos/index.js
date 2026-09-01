@@ -26,4 +26,22 @@ console.log(`Desconto: ${descontoPercentual)%`);
 console.log(`Valor do desconto: R$ ${valorDesconto.toFixed(2)}`);
 console.log(`Valor final: R$ ${valorFinal.toFixed(2)}`);
 console.log(`Valor pago: R$ ${valorPago.toFixed(2)}`);
-console.log(`Troco: R$ ${troco.toFixed(2)}`);
+console.log(`Troco: R$ ${troco.toFixed(2)}`);-// === FIM DO CÓDIGO
+
+ -// === NÃO FAZER NADA ABAIXO DESSA LINHA ==
+-module.exports = {
+-cliente,
+-cidade,
+-produto,
+-categoria,
+-preco,
+-quantidade,
+-desconto Percentual,
+-valorPago,
+-subtotal,
+-valorDesconto,
+-valorFinal,
+-troco,
+-resumo
+-}
+
