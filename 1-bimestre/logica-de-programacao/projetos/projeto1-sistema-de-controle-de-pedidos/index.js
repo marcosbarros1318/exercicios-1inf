@@ -15,18 +15,19 @@ const troco = valorPago - valorFinal;
 
 const resumo = `
 ===== RESUMO DO PEDIDO =====
-Cliente: ${cliente}
-Cidade: ${cidade}
-Produto: ${produto}
-Categoria: ${categoria}
-Preço unitário: R$ ${preco.toFixed(2)}
-Quantidade: ${quantidade}
-Desconto: ${descontoPercentual}%
-Valor do desconto: R$ ${valorDesconto.toFixed(2)}
-Valor final: R$ ${valorFinal.toFixed(2)}
-Valor pago: R$ ${valorPago.toFixed(2)}
-Troco: R$ ${troco.toFixed(2)}
-`;
+console.log(`Cliente: ${cliente}`);
+console.log(`Cidade: ${cidade}`);
+console.log(`Produto: ${produto}`);
+console.log(`Categoria: ${categoria}`);
+console.log(`Preço unitário: R$ ${preco.toFixed(2)}`);
+console.log(`Quantidade: ${quantidade}`);
+console.log(`Desconto: ${descontoPercentual}%`);
+console.log(`Valor do desconto: R$ ${valorDesconto.toFixed(2)}`);
+console.log(`Valor final: R$ ${valorFinal.toFixed(2)}`);
+console.log(`Valor pago: R$ ${valorPago.toFixed(2)}`);
+console.log(`Troco: R$ ${troco.toFixed(2)}`);
+```
+
 
 console.log(resumo);
 
