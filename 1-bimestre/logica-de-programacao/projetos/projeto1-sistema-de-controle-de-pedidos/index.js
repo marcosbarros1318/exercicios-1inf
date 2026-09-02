@@ -29,27 +29,6 @@ console.log(`Troco: R$ ${troco.toFixed(2)}`);
 ```
 
 
-console.log(resumo);
-
-module.exports = {
-  cliente,
-  cidade,
-  produto,
-  categoria,
-  preco,
-  quantidade,
-  descontoPercentual,
-  valorPago,
-  subtotal,
-  valorDesconto,
-  valorFinal,
-  troco,
-  resumo
-};
-
-
-
-
 -// === FIM DO CÓDIGO========================
 -// === NÃO FAZER NADA ABAIXO DESSA LINHA ===
 -module.exporta = {
