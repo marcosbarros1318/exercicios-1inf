@@ -29,20 +29,20 @@ console.log(`Troco: R$ ${troco.toFixed(2)}`);
 
 
 -// === FIM DO CÓDIGO========================
- -// === NÃO FAZER NADA ABAIXO DESSA LINHA ==
--module.exports = {
--cliente,
--cidade,
--produto,
--categoria,
--preco,
--quantidade,
--desconto Percentual,
--valorPago,
--subtotal,
--valorDesconto,
--valorFinal,
--troco,
--resumo
+-// === NÃO FAZER NADA ABAIXO DESSA LINHA ===
+-module.exporta = {
+- cliente,
+- cidade,
+- produto,
+- categoria,
+- preco,
+- quantidade,
+- descontoPercentual,
+- valorPago,
+- subtotal,
+- valorDesconto,
+- valorFinal,
+- troco,
+- resumo
 -}
 
