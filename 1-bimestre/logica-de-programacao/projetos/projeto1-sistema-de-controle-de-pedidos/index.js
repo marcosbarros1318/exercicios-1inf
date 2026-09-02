@@ -28,7 +28,7 @@ console.log(`Troco: R$ ${troco.toFixed(2)}`);
 
 
 
--// === FIM DO CÓDIGO==================
+-// === FIM DO CÓDIGO========================
  -// === NÃO FAZER NADA ABAIXO DESSA LINHA ==
 -module.exports = {
 -cliente,
